@@ -8,3 +8,4 @@ My first repository
 - Mob
 - OnePiece
 - DragonBall
+- Reincarnated as a slime
